@@ -1,2 +1,2 @@
 # CUHKNeuralComputation
-A mono repo for VUHKs Neural Computation Team
+A mono repo for CUHKs Neural Computation Team
